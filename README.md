@@ -1,6 +1,9 @@
 # Simulation of ultra-fast structured illumination in single-photon sensitive single-pixel lidar
 This repository contains files for the manuscript *Simulation of ultra-fast structured illumination in single-photon sensitive single-pixel lidar* by Jaakko Olkkonen, Josef Taher, Teemu Hakala, Antero Kukko, Harri Kaartinen, and Juha Hyyppä.
 
+## Abstract
+This study presents a novel single-pixel imaging lidar system utilizing VCSEL arrays and single-photon detection for high-speed structured illumination and accurate reflectance estimation. The research developed a detailed measurement model and inverse rendering workflow. These were evaluated using ray tracing simulations that generated full-waveform intensity data. The proposed method achieved millimeter-level precision in range measurements and accurate reflectance estimates by leveraging local angle of incidence information. Notably, the method does not require separate surface normal estimation from dense point clouds. Future research may explore additional applications of the local angle of incidence information and further validate the model in real-world scenarios. 
+
 # File descriptions
 
 - **ray_tracing.ipynb**: 
