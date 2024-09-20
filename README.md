@@ -16,8 +16,8 @@ This repository contains files for the manuscript *Simulation of ultra-fast stru
 
 This project requires the following Python libraries:
 
-- `matplotlib`: For data visualization and plotting.
-- `numpy`: For numerical operations and handling arrays.
-- `pickle`: For serializing and deserializing Python objects.
-- `scipy`: For scientific computing and advanced mathematical functions.
-- `pandas`: (only for **inverse_rendering.ipynb**) For data manipulation and analysis.
+- `matplotlib`
+- `numpy`
+- `pickle`
+- `scipy`
+- `pandas`
