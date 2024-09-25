@@ -17,10 +17,5 @@ This study presents a novel single-pixel imaging lidar system utilizing VCSEL ar
   
 # Dependencies
 
-This project requires the following Python libraries:
+The required libraries for this project are listed in `requirements.txt`.
 
-- `matplotlib`
-- `numpy`
-- `pickle`
-- `scipy`
-- `pandas`
