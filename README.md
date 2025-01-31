@@ -1,6 +1,25 @@
 # Simulation of ultra-fast structured illumination in single-photon sensitive single-pixel lidar
 This repository contains files for the manuscript [Simulation of ultra-fast structured illumination in single-photon sensitive single-pixel lidar](https://doi.org/10.1364/OE.542849) by Jaakko Olkkonen, Josef Taher, Teemu Hakala, Antero Kukko, Harri Kaartinen, and Juha Hyyppä.
 
+## Citation
+Please cite the following article:  
+
+```bibtex
+@article{Olkkonen:25,
+  author = {Jaakko Olkkonen and Josef Taher and Teemu Hakala and Antero Kukko and Harri Kaartinen and Juha Hyypp\"{a}},
+  title = {Simulation of ultra-fast structured illumination in single-photon sensitive single-pixel lidar},
+  journal = {Opt. Express},
+  volume = {33},
+  number = {3},
+  pages = {4396--4419},
+  year = {2025},
+  month = {Feb},
+  publisher = {Optica Publishing Group},
+  doi = {10.1364/OE.542849},
+  url = {https://opg.optica.org/oe/abstract.cfm?URI=oe-33-3-4396}
+}
+```
+
 ## Abstract
 This study presents a novel single-pixel imaging lidar system utilizing individually addressable VCSEL arrays and single-photon detection for high-speed structured illumination and accurate reflectance estimation. VCSEL arrays as spatial light modulators offer modulation rates several orders of magnitude higher than conventional DMD-based systems. This capability allows for more measurements, reducing the effect of noise and enabling accurate angle of incidence estimation at the level of individual points, without the need for separate surface normal estimation from dense point clouds. The research developed a detailed measurement model and inverse rendering workflow, which were evaluated using ray tracing simulations that generated full-waveform intensity data. The proposed method achieved millimeter-level precision in range measurements and accurate reflectance estimates by leveraging local angle of incidence information. Future research may explore additional applications of the local angle of incidence information and further validate the model in real-world scenarios. 
 
